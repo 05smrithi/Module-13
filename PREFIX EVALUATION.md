@@ -22,14 +22,6 @@ To write a Python program to evaluate a user-given Prefix expression using a sta
 
 
 
-
-
-
-
-
-
-
-
 **PROGRAM**
 
 OPERATORS=set(['*','-','+','%','/','**']) 
