@@ -18,6 +18,8 @@ To write a Python program to evaluate a user-given Prefix expression using a sta
 5. After traversal, the stack should contain only **one element**.
 6. Return the **single element** as the evaluation result.
 7. **End the program.**
+
+
    
 **PROGRAM**
 
