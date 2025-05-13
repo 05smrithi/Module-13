@@ -26,6 +26,8 @@ To write a Python program to convert a given Infix expression to Postfix express
 
 **PROGRAM**
 
+---
+
 OPERATORS=set(['&','-','/','(',')'])
 PRIORITY={'&':1,'-':2,'/':3}
 def infixToPostfix(expression):
@@ -50,6 +52,8 @@ def infixToPostfix(expression):
 expression=input()
 print("infix notation: ",expression)
 print("postfix notation: ",infixToPostfix(expression))
+
+---
 
 
             
