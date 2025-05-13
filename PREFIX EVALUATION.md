@@ -19,9 +19,6 @@ To write a Python program to evaluate a user-given Prefix expression using a sta
 6. Return the **single element** as the evaluation result.
 7. **End the program.**
    
-
-
-
 **PROGRAM**
 
 OPERATORS=set(['*','-','+','%','/','**']) 
